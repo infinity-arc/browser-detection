@@ -1,9 +1,11 @@
 {
-  "name": "@braintree/browser-detection",
+  "name": "browser-detection",
   "version": "1.6.0",
   "description": "A small lib to detect browser compatibility for braintree products",
   "main": "browser-detection.js",
-  "files": ["*.js"],
+  "files": [
+    "*.js"
+  ],
   "dependencies": {},
   "devDependencies": {
     "chai": "^3.5.0",
